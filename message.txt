@@ -1,0 +1,20 @@
+<Subject>
+
+Hi Dhriti
+
+<PlainText>
+
+I went through your site at https://www.olacabs.com/info/careers . But the page was empty.
+Within the DOM, i found another link http://hire.jobvite.com/CompanyJobs/Careers.aspx?k=JobListing&c=qhP9VfwU&v=1
+Which redirected me to a site of careers.
+
+Can you kindly tell for which type of roles you asked for the CV.
+
+
+
+Sincerely
+S
+
+(PFA: I have attached myself with this mail)
+
+Send from a python-bot, it doesn't no about typos :D

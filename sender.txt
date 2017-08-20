@@ -1,0 +1,3 @@
+# Replace your gmail address and application specific password
+email = subhamoysengupta409@gmail.com
+app_specific_password = fknjdwcaczezffjv
